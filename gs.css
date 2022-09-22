@@ -85,3 +85,22 @@ d:hover {
     color:darkblue;
     background-color: cadetblue;
   }
+  a:link {
+    color:aqua;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:darkgreen;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:darkmagenta;
+    background-color:cornflowerblue;
+  }
+  
+  /* selected link */
+  a:active {
+    color:darkcyan;
+  }
