@@ -67,3 +67,21 @@ d:hover {
     background-color:cadetblue;
     color:darkblue ;
   }
+  table, td, th {  
+    border: 5px solid darkblue;
+    text-align: left;
+  }
+  table {
+    border:5px;
+    width: 100%;
+  }
+  th, td {
+    padding: 15px;
+  }
+  tr:nth-child(even){
+    background-color: beige;
+  }
+  tr:hover{
+    color:darkblue;
+    background-color: cadetblue;
+  }
